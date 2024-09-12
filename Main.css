@@ -1,0 +1,13 @@
+.img1{
+    border-color: brown;
+    border-width: 25px;
+    border-radius: 25%;
+}
+.title1{
+    background: local;
+    background-color: aqua;
+}
+
+footer{
+    background-color: blue;
+}
